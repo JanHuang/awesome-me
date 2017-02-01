@@ -18,6 +18,8 @@ my php learn plan.
 * [PHP数据存储](https://github.com/JanHuang/storage)
 * [PHP日子处理(基于monolog)](https://github.com/JanHuang/logger)
 * [PHP模板引擎(基于twig)](https://github.com/JanHuang/template)
+* [PHP中间件](https://github.com/JanHuang/middleware)
+* [PHP单元测试](https://github.com/JanHuang/testing)
 
 ## 网络编程
 
