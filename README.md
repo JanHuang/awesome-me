@@ -20,6 +20,8 @@ my php learn plan.
 * [PHP模板引擎(基于twig)](https://github.com/JanHuang/template)
 * [PHP中间件](https://github.com/JanHuang/middleware)
 * [PHP单元测试](https://github.com/JanHuang/testing)
+* [HTTP 中间件](https://github.com/JanHuang/middleware)
+* [PHP 数据类型操作](https://github.com/JanHuang/utils)
 
 ## 网络编程
 
