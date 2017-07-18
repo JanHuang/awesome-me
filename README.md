@@ -1,6 +1,11 @@
 # php-learn
 my php learn plan.
 
+## Mac 工具集
+
+* [Atom](https://atom.io/)
+    * [markdown-preview-enhanced 炒鸡好用的 markdown 插件](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)
+
 ## PHP 相关
 
 * [FastD PHP Web框架](https://github.com/JanHuang/fastD)
@@ -25,7 +30,7 @@ my php learn plan.
 
 ## 网络编程
 
-* [swoole](https://github.com/JanHuang/swoole)
+* [Swoole](https://github.com/JanHuang/swoole)
 
 #### PHP 知识
 
@@ -65,7 +70,7 @@ my php learn plan.
 * 架构基础，理论
 * 分布式概念
 * 服务化概念
-    * 实践 RPC 
+    * 实践 RPC
 
 #### 运维知识
 
